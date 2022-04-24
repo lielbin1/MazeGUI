@@ -2,4 +2,4 @@
 
 ## Project as part of the studies
 
-Create a maze of the size the user chooses
+Create a game board - a maze the size the user chooses
