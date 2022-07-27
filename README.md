@@ -23,7 +23,7 @@
   The server can retrieve the already solved solution from the file and return it to the client without solving 
   again.
 
- - Running tests using JUnit
+- Running tests using JUnit
 - Desktop application in MVVM architecture
 - OOP
 - GUI using JavaFX
@@ -32,4 +32,4 @@
 - Abstraction
 - Correct encapsulation
 - Code documentation using Javadoc
-- Desktop application in architecture
+
