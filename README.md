@@ -7,7 +7,8 @@
 
 ## Project as part of the studies
 
-# Stages in the project:
+## Stages in the project:
+
 - Creating a class diagram
 
 - Creating the maze using DFS, BFS and Best First Search algorithms
