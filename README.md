@@ -32,4 +32,4 @@
 - Abstraction
 - Correct encapsulation
 - Code documentation using Javadoc
--Desktop application in architecture
+- Desktop application in architecture
